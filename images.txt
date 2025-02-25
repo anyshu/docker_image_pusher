@@ -1,1 +1,1 @@
-ohmygd/sglang:latest
+lmsysorg/sglang:latest
