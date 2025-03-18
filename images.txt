@@ -1,1 +1,1 @@
-node:22-slim
+golang:1.24
