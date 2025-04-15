@@ -1,1 +1,1 @@
-bitnami/elasticsearch:8.17.4
+mysql:9.3.0
