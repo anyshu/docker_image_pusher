@@ -1,1 +1,1 @@
-qwenllm/qwen-omni:2.5-cu121
+infiniflow/ragflow:v0.17.2
