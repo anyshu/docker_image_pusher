@@ -1,1 +1,1 @@
-infiniflow/ragflow:nightly
+infiniflow/ragflow:v0.18.0
