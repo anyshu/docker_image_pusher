@@ -1,1 +1,1 @@
-infiniflow/infinity:v0.6.0-dev3
+vllm/vllm-openai:v0.8.5
