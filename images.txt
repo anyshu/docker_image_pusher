@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly-d8218b1ee7db3e7582e0151e942d17963a1e3e13
+qwenllm/qwen3-asr:latest
